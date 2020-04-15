@@ -1,0 +1,90 @@
+body
+{
+	margin-bottom: 80px;
+}
+
+.page-header
+{
+	margin-top: 0;
+}
+
+.panel-body
+{
+	padding-top: 0;
+}
+
+.featuredImg
+{
+	margin-bottom: 15px;
+}
+
+textarea 
+{
+	resize: none;
+}
+
+.dropdown-menu
+{
+	background-color: black;
+}
+
+.dropdown-menu > li > a
+{
+	color: white;
+}
+
+.carousel-inner
+{
+	width: auto;
+	height: 100px;
+}
+
+mark
+{
+	background-color:#FFFF00;
+}
+
+.box
+{
+	width: 100%;
+	height: auto;
+	padding: 10px;
+	border: 1px solid lightgray;
+}
+
+.box2
+{
+	margin-left: 10px;
+	width: 100%;
+	height: auto;
+	padding: 20px;
+	border: 1px solid lightgray;
+}
+
+.column 
+{
+  float: left;
+  width: 40%;
+}
+
+.row::after 
+{
+  content: "";
+  clear: both;
+  display: table;
+}
+
+.checked
+{
+	color: orange;
+}
+
+.top-space
+{
+	padding-top: 100px;
+}
+
+.space
+{
+	padding-left: 24px;
+}
